@@ -59,7 +59,7 @@ public class Main {
                 System.out.println("Осень");
                 break;
             default:
-                System.out.println("Нет такого месяца");
+                System.out.println("Нет такого месяца.");
         }
     }
 }
